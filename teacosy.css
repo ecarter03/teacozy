@@ -90,7 +90,6 @@ h2 {
 }
 
 #store {
-    height: 700px;
     width: 80%;
     margin: auto;
     padding-top: 35px;
@@ -141,6 +140,7 @@ h2 {
     margin: 40px;
     background-color: black;
     text-align: center;
+    flex: 1;
 }
 
 #locations h2 {
